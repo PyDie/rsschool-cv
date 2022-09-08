@@ -1,1 +1,1 @@
-## https://pydie.github.io/rsschool-cv/cv
+https://pydie.github.io/rsschool-cv/
